@@ -1,8 +1,8 @@
 # This repository shows my understanding and usage of cloud tools, platform, and services. It fulfills the Work Processes:
 
-  > Use various cloud tools, services, and platforms
-  > Use logging and monitoring tools
-  > Migrate data from on-premise solution to cloud solution
+  > - Use various cloud tools, services, and platforms
+  > - Use logging and monitoring tools
+  > - Migrate data from on-premise solution to cloud solution
 
 ## About
 
